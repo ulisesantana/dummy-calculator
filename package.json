@@ -1,0 +1,16 @@
+{
+  "name": "dummy-calculator",
+  "version": "1.0.0",
+  "description": "Just a dummy calculator for basic operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/*.test.js --coverage",
+    "tdd": "npm run test -- --watch"
+  },
+  "keywords": [],
+  "author": "Ulises Santnaa <ulisesantana@gmail.com> (http://ulisesantana.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}

@@ -1,4 +1,5 @@
 const assert = require('assert')
+const {square} = require('../index')
 
 describe('Square', () => {
   it('Should calc the square of a number', () => {

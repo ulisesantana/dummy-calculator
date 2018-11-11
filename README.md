@@ -9,10 +9,13 @@ const calc = require('dummy-calculator');
 calc.add(2,3,5) // 10
 calc.sub(2,3,5) // -6
 calc.mul(2,3,5) // 30
-calc.div(21,3) // 7 
+calc.div(21,3) // 7
+calc.square(2) // 4 
 ```
 
 `div` method only accepts 2 arguments, but `add`,`sub` and `mul` have no arguments limit. 
+
+`square` method only accepts 1 arguments.
 
 TO DO:
   - [ ] Add square method for calculate the square of a number.

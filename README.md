@@ -15,7 +15,7 @@ calc.div(21,3) // 7
 `div` method only accepts 2 arguments, but `add`,`sub` and `mul` have no arguments limit. 
 
 TO DO:
-  [ ] Add square method for calculate the square of a number.
+  - [ ] Add square method for calculate the square of a number.
 
 
 ## Some helpful links

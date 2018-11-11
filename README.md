@@ -27,5 +27,7 @@ TO DO:
 - [Helps you to choose a license](https://choosealicense.com/)
 - Look at your dependencies [dependencies](https://bundlephobia.com)
 - Search on npm seeing the [quality of the package](https://npms.io)
+- [npm-analyze](https://www.npmjs.com/package/npm-analyze)
+- [npmignore-defaults](https://www.npmjs.com/package/npmignore-defaults)
 
 

@@ -17,9 +17,6 @@ calc.square(2) // 4
 
 `square` method only accepts 1 arguments.
 
-TO DO:
-  - [ ] Add square method for calculate the square of a number.
-
 
 ## Some helpful links
 

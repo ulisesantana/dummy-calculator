@@ -2,15 +2,20 @@
   "name": "dummy-calculator",
   "version": "1.0.0",
   "description": "Just a dummy calculator for basic operations",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "jest test/*.test.js --coverage",
     "tdd": "npm run test -- --watch"
   },
   "keywords": [],
-  "author": "Ulises Santnaa <ulisesantana@gmail.com> (http://ulisesantana.com)",
+  "author": "Ulises Santana <ulisesantana@gmail.com> (http://ulisesantana.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ulisesantana/dummy-calculator"
+  },
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "npmignore-defaults": "^1.0.0"
   }
 }

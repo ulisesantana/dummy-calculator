@@ -15,4 +15,16 @@ calc.div(21,3) // 7
 `div` method only accepts 2 arguments, but `add`,`sub` and `mul` have no arguments limit. 
 
 TO DO:
-  - [ ] Add square method for calculate the square of a number.
+  [ ] Add square method for calculate the square of a number.
+
+
+## Some helpful links
+
+- [npm docs](https://docs.npmjs.com/packages-and-modules/)
+- [Use badges on README](https://github.com/dwyl/repo-badges)
+- [Software licenses explained in plain english](https://tldrlegal.com/)
+- [Helps you to choose a license](https://choosealicense.com/)
+- Look at your dependencies [dependencies](https://bundlephobia.com)
+- Search on npm seeing the [quality of the package](https://npms.io)
+
+

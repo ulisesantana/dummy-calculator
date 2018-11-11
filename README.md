@@ -21,6 +21,7 @@ TO DO:
 ## Some helpful links
 
 - [npm docs](https://docs.npmjs.com/packages-and-modules/)
+- See all available properties for [package.json](https://docs.npmjs.com/files/package.json)
 - [Use badges on README](https://github.com/dwyl/repo-badges)
 - [Software licenses explained in plain english](https://tldrlegal.com/)
 - [Helps you to choose a license](https://choosealicense.com/)
